@@ -1,2 +1,2 @@
-# UserSystem
-User System Boiler Code 
+# Event App
+Event App API
